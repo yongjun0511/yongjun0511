@@ -7,7 +7,7 @@
 
 ## 🛠️ **Skills**
 ### Backend
-* Language : ![Static Badge](https://img.shields.io/badge/:JAVA)
+* Language : ![JAVA](https://img.shields.io/badge/:JAVA)
 
 
 <div style="text-align: left;"> 
