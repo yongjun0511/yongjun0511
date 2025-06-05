@@ -2,6 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=210&section=header&text=YongJun%Na&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=Welcome%20to%20my%20GitHub!&descSize=25&descAlign=75&descAlignY=55)
 
+## 😃 **About Me**
+기록하고 공유하는 것을 좋아하는 개발자 나용준입니다.
+
+## 🛠️ **Skills**
+### Backend
+* Language : ![Static Badge](https://img.shields.io/badge/:JAVA)
 
 
 <div style="text-align: left;"> 
