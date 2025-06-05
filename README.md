@@ -6,11 +6,18 @@
 기록하고 공유하는 것을 좋아하는 개발자 나용준입니다.
 
 ## 🛠️ **Skills**
-### Backend
-![Java](https://img.shields.io/badge/☕Java-2F2625?style=flat&logo=java&logoColor=white)<br>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)![QueryDSL](https://img.shields.io/badge/QueryDSL-blue?style=flat)<br>
+### Language & Framework
+![Java](https://img.shields.io/badge/☕Java-f89820?style=flat&logo=java&logoColor=white)<br>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-blue?style=flat)<br>
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-FF9900?style=flat)
 
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![H2](https://img.shields.io/badge/H2-09476B?style=flat&logo=h2database&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+
+### DevOps
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yongjun0511&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
          /> </div> 
