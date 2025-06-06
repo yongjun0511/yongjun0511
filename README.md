@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=210&section=header&text=YongJun%Na&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=Welcome%20to%20my%20GitHub!&descSize=25&descAlign=75&descAlignY=55)
 
 ## 😃 **About Me**
-기록하고 공유하는 것을 좋아하는 개발자 나용준입니다<br>[![Tistory Blog](https://img.shields.io/badge/Tistory-FF5E00?style=flat&logo=tistory&logoColor=white)](https://coding-self-study.tistory.com/)
+기록하고 공유하는 것을 좋아하는 개발자입니다<br>[![Tistory Blog](https://img.shields.io/badge/Tistory-FF5E00?style=flat&logo=tistory&logoColor=white)](https://coding-self-study.tistory.com/)
 
 ## 🛠️ **Skills**
 ### Language & Framework
