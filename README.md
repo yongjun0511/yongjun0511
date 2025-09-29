@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=210&section=header&text=YongJun%Na&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=Welcome%20to%20my%20GitHub!&descSize=25&descAlign=75&descAlignY=55)
 
 ## 😃 **About Me**
-끊임없는 도전을 통해 성장하는 것을 멈추지 않고자 합니다.
+끊임없는 도전을 통해 성장해 나가는 개발자입니다.
 
 ## 🛠️ **Skills**
 ### Language & Framework
