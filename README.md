@@ -31,9 +31,9 @@
 | 프로젝트 이름 | 진행 기간       | 내용                                                 | 앱스토어 링크 |
 |---------------|----------------|------------------------------------------------------|---------------|
 | Clokey (legacy 1.0.0)  | 2024.12 ~ 2025.07 | <a href="https://github.com/Clokey-dev/Clokey_SpringBoot">나만의 디지털 옷장 관리 서비스</a> | [:link:](https://apps.apple.com/kr/app/clokey-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%B7%EC%9E%A5-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/id6741714676) |
-| Clokey (2.0)    | 2025.07 ~ 진행중 | <a href="https://github.com/Clokey-dev/clokey-server"> 나만의 디지털 옷장 관리 서비스 </a> | 준비중 |
+| Clokey (2.0)    | 2025.07 ~ 2026.02 | <a href="https://github.com/Clokey-dev/clokey-server"> 나만의 디지털 옷장 관리 서비스 </a> | 준비중 |
 | CherryPic    | 2025.06 ~ 2025.12 | <a href="https://github.com/cherrypic-proj/cherrypic-server"> 엘범 자동 정리 서비스 </a> | 준비중 |
-| EAT-SSU    | 2025.08 ~ 진행중 | <a href="https://github.com/EAT-SSU/Server"> 3500명이 사랑한 숭실대 학식 리뷰 앱 EAT-SSU </a> | [:link:](https://apps.apple.com/kr/app/eat-ssu/id6472618331) |
+| EAT-SSU    | 2025.08 ~ 2026.02 | <a href="https://github.com/EAT-SSU/Server"> 3500명이 사랑한 숭실대 학식 리뷰 앱 EAT-SSU </a> | [:link:](https://apps.apple.com/kr/app/eat-ssu/id6472618331) |
 
 ## 🫂 Activity
 | 비고   | 이름                        | 활동                             | 기간              |
